@@ -29,3 +29,13 @@ h3 {
 p {
     padding-left: 20px;
 }
+
+
+a {
+    color: #ffa372;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover {
+    color: red;
+}
